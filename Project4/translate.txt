@@ -1,0 +1,4 @@
+if
+если
+if(){}else{}
+if(i>1){cout<<"i>1";}else{cout<<"i<=1"}
